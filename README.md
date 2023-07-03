@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/watthananick/" target="blank"><img align="center"
-      src="https://www.freepik.com/icon/facebook_5968764#position=1&page=1&term=facebook&fromView=search"
+      src="https://icons8.com/icon/118497/facebook"
       alt="watthananick1" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -90,5 +90,3 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[Adam-pw](https://github.com/Adam-pw)
